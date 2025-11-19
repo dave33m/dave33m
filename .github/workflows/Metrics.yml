@@ -16,14 +16,12 @@ jobs:
           user: dave33m
           template: classic
 
-          # Commit settings (these ARE valid)
-          committer_branch: main
-          clean_workflows: true
-          committer_message: "chore: update github-metrics.svg"
-
-          # Output settings
+          # Output file settings
           filename: github-metrics.svg
           output_action: commit
+
+          # Force commit to your default branch
+          committer_branch: main
 
           # Base sections
           base: header, activity, community, repositories, metadata
@@ -43,5 +41,8 @@ jobs:
 
           plugin_lines: yes
 
-          # Disable broken plugin
+          # Disable failing plugin
           plugin_achievements: no
+
+          # Fix for stuck yellow runs
+          clean_workflows: true
