@@ -18,6 +18,7 @@ jobs:
 
           # Commit settings (these ARE valid)
           committer_branch: main
+          clean_workflows: true
           committer_message: "chore: update github-metrics.svg"
 
           # Output settings
