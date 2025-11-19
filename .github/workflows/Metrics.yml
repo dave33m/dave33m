@@ -1,0 +1,38 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: dave33m
+          template: classic
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Commit into your correct profile repo
+          committer_branch: main
+          committer_message: "chore: update github-metrics.svg"
+          committer_repository: dave33m/dave33m
+
+          # Plugins
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 1%
+          plugin_followup: yes
+          plugin_stars: yes
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 12
+          plugin_lines: yes
+
+          # Disable broken achievements plugin
+          plugin_achievements: no
