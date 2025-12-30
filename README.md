@@ -14,24 +14,26 @@ Backend Developer • Cybersecurity Engineer
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"/>
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
 </div>
 
@@ -39,13 +41,15 @@ Backend Developer • Cybersecurity Engineer
 
 ### 📊 My GitHub Stats (Public Data Only)
 
+<!-- Stable replacement for main stats -->
 <a href="https://github.com/dave33m">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dave33m&show_icons=true&cache_seconds=1800&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dave33m&theme=github_dark"
     height="160px"
   />
 </a>
 
+<!-- Streak stats (stable) -->
 <a href="https://github.com/dave33m">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=dave33m&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
@@ -53,9 +57,10 @@ Backend Developer • Cybersecurity Engineer
   />
 </a>
 
+<!-- Stable replacement for top languages -->
 <a href="https://github.com/dave33m">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave33m&langs_count=10&layout=compact&cache_seconds=1800&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dave33m&theme=github_dark"
     height="160px"
   />
 </a>
