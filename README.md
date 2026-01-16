@@ -67,12 +67,4 @@ Backend Developer • Cybersecurity Engineer
 
 ---
 
-### 🧩 Metrics
-
-> Private contributions enabled — this card only displays public data.
-
-![Metrics](https://raw.githubusercontent.com/dave33m/dave33m/main/github-metrics.svg)
-
----
-
 <h3 align="center">🔥 Thanks for visiting my profile!</h3>
