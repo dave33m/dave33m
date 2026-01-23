@@ -12,12 +12,6 @@ Software Developer • Backend Engineer
 ### 🚀 Languages and Technologies
 
 <div align="left">
-  <!-- JavaScript / Node -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"/>
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"/>
-  <img width="16" />
-
   <!-- Python / Django / FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo"/>
   <img width="10" />
@@ -30,6 +24,12 @@ Software Developer • Backend Engineer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="csharp logo"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="28" alt="asp.net logo"/>
+  <img width="16" />
+
+  <!-- JavaScript / Node -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="javascript logo"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo"/>
   <img width="16" />
 
   <!-- PostgreSQL -->
